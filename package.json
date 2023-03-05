@@ -1,0 +1,9 @@
+{"scripts": {
+"predeploy": "npm run build",
+"build": "npm run deploy",
+"deploy": "gh-pages -d build"},
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
+
