@@ -1,9 +1,24 @@
-{"scripts": {
-"predeploy": "npm run build",
-"build": "npm run deploy",
-"deploy": "gh-pages -d build"},
+{
+  "name": "test1",
+  "private": true,
+  "homepage": "https://Liubov36.github.io/test1/",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "predeploy": "npm run build",
+    "build": "npm run deploy",
+    "deploy": "gh-pages -d build"
+  },
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "normalize.css": "^8.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
-
