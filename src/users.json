@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "user": "Boy-BAD",
+      "tweets": 777,
+      "followers": 100500,
+      "avatar": "https://ru.pinterest.com/pin/431782683021544838/",
+        "isFollowing": false
+    },
+    {
+      "id": "2",
+      "user": "GIRL-RAPUNZEL",
+      "tweets": 234,
+      "followers": 456,
+      "avatar": "https://ru.pinterest.com/pin/431782683021544838/",
+      "isFollowing": false
+    },
+    {
+      "id": "3",
+      "user": "NLO",
+      "tweets": 213,
+      "followers": 75456,
+      "avatar": "https://www.freepik.com/free-vector/alien-vector-illustration-cute-extraterrestrial-character-cosmic-person-humanoid_11235260.htm#query=alien%20avatar&position=5&from_view=keyword&track=ais",
+      "isFollowing": false
+    }
+  ]
